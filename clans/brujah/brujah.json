@@ -1,7 +1,7 @@
 {
-    "index": "brujah",
-    "name": "Bujah",
-    "faction": "Anarch",
+    "index"     : "brujah",
+    "name"      : "Bujah",
+    "faction"   : "Anarch",
     "archetypes": [
         {
             "name"  : "Cancer in the System",
@@ -24,7 +24,7 @@
             "desc"  : "The Brujah claim there is no clan closer bonded to humanity than their own, which is why they exhibit such fiery passions. But some take it further than that, and strive to live like mortals by keeping up to date with modern culture, forming relationships, and building families. The payoff for this behavior is a startling duality of dream and real-ity. The Beast will not be denied for long, and undead family men and working women must slip away from their fake lives ever so often to avoid seeing red, returning only after they have satiated their dangerous urges."
         }
     ],
-    "Disciplines":[
+    "disciplines":[
         {
             "name"  : "Celerity",
             "url"   : "disciplines/celerity",
