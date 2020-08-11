@@ -2,6 +2,7 @@
     "index"        : "gangrel",
     "name"         : "Gangrel",
     "faction"      : "Anarch",
+    
     "archetypes"   : [
         {
             "name" : "Uncaged Jailbird",

@@ -1,0 +1,75 @@
+{
+    "count" : 100,
+    "results": [
+        {
+            "index" : "bond_famulus",
+            "name"  : "Bond Famulus",
+            "url"   : "powers/bond_famulus"
+        },
+        {
+            "index" : "sense_the_beast",
+            "name"  : "Sense The Beast",
+            "url"   : "powers/sense_the_beast"
+        },
+        {
+            "index" : "feral_whispers",
+            "name"  : "Feral Whispers",
+            "url"   : "powers/feral_whispers"
+        },
+        {
+            "index" : "animal_succulence",
+            "name"  : "Animal Succulence",
+            "url"   : "powers/animal_succulence"
+        },
+        {
+            "index" : "quell_the_beast",
+            "name"  : "Quell The Beast",
+            "url"   : "powers/quell_the_beast"
+        },
+        {
+            "index" : "unliving_hive",
+            "name"  : "Unliving Hive",
+            "url"   : "powers/unliving_hive"
+        },
+        {
+            "index" : "subsume_the_spirit",
+            "name"  : "Subsume The Spirit",
+            "url"   : "powers/subsume_the_spirit"
+        },
+        {
+            "index" : "animal_dominion",
+            "name"  : "Animal Dominion",
+            "url"   : "powers/animal_dominion"
+        },
+        {
+            "index" : "drawing_out_the_beast",
+            "name"  : "Drawing Out The Beast",
+            "url"   : "powers/drawing_out_the_beast"
+        },
+        {
+            "index" : "heightened_senses",
+            "name"  : "Heightened Senses",
+            "url"   : "powers/heightened_senses"
+        },
+        {
+            "index" : "sense_the_unseen",
+            "name"  : "Sense The Unseen",
+            "url"   : "powers/sense_the_unseen"
+        },
+        {
+            "index" : "premonition",
+            "name"  : "Premonition",
+            "url"   : "powers/premonition" 
+        },
+        {
+            "index" : "scry_the_soul",
+            "name"  : "Scry The Soul",
+            "url"   : "powers/scry_the_soul"
+        },
+        {
+            "index" : "share_the_senses",
+            "name"  : "Share The Senses",
+            "url"   : "powers/share_the_senses"
+        }
+    ]
+}
